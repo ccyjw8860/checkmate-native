@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff003ab5-b280-4902-a2ee-6138a2510dd8" name="Default Changelist" comment="" />
+    <list default="true" id="ff003ab5-b280-4902-a2ee-6138a2510dd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/checkmate-native.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkmate-native.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../airbnb-native" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../airbnb-native" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,9 +46,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1720" height="840" key="AVDManager" timestamp="1607332292533">
+    <state x="100" y="100" width="1720" height="840" key="AVDManager" timestamp="1607510520724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="100" y="100" width="1720" height="840" key="AVDManager/1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607332292533" />
+    <state x="100" y="100" width="1720" height="840" key="AVDManager/1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607510520724" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1607503704785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607503704785" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607503685506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607503685506" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607503669149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/1920.-5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607503669149" />
   </component>
 </project>
